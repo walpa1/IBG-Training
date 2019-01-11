@@ -1,0 +1,36 @@
+Piazza 4-5 times a day engagement.  Independent research, find solutions for errors. 
+
+DEBUG always, coding requires error-checking.  Coding is a valuable trade and skillset. 
+
+ 
+
+Follow instructions, execute, and move forward. 
+
+ 
+
+Engagement is key to progression with this course. 
+
+ 
+
+Software Development Life Cycle (SDLC) describes the activities performed at each stage of a software development project. 
+
+ 
+
+Requirements Gathering and Analysis - What does the app/program ABSOLUTELY need to accomplish? data gathering from multiple sources 
+
+Design - User interface/experience and object interactions
+
+Development - writing the code to run the program/application
+
+Testing - ensuring functionality of program/app features, compatibility, responsiveness
+
+Implementation - roll out of live project
+
+Maintenance - user feedback/debugging/ updates
+
+ 
+
+go through SDLC document on Piazza
+
+Research and summarize two primary SDLC models and explain the differences between the two. 
+
